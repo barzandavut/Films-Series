@@ -1,0 +1,11 @@
+.movie {
+  display: flex;
+  flex-direction: column;
+  min-height: 450px;
+}
+
+.movie a {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
